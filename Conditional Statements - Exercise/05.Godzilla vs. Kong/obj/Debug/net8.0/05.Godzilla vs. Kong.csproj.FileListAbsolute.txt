@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\bin\Debug\net8.0\05.Godzilla vs. Kong.exe
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\bin\Debug\net8.0\05.Godzilla vs. Kong.deps.json
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\bin\Debug\net8.0\05.Godzilla vs. Kong.runtimeconfig.json
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\bin\Debug\net8.0\05.Godzilla vs. Kong.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\bin\Debug\net8.0\05.Godzilla vs. Kong.pdb
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\05.Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\05.Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\05.Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\05.Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\05.Godzilla vs. Kong.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\refint\05.Godzilla vs. Kong.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\05.Godzilla vs. Kong.pdb
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\05.Godzilla vs. Kong.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\05.Godzilla vs. Kong\obj\Debug\net8.0\ref\05.Godzilla vs. Kong.dll
