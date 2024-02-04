@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\bin\Debug\net8.0\03.Time + 15 Minutes.exe
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\bin\Debug\net8.0\03.Time + 15 Minutes.deps.json
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\bin\Debug\net8.0\03.Time + 15 Minutes.runtimeconfig.json
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\bin\Debug\net8.0\03.Time + 15 Minutes.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\bin\Debug\net8.0\03.Time + 15 Minutes.pdb
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\03.Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\03.Time + 15 Minutes.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\03.Time + 15 Minutes.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\03.Time + 15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\03.Time + 15 Minutes.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\refint\03.Time + 15 Minutes.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\03.Time + 15 Minutes.pdb
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\03.Time + 15 Minutes.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\03.Time + 15 Minutes\obj\Debug\net8.0\ref\03.Time + 15 Minutes.dll

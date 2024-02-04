@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\bin\Debug\net8.0\02.Bonus Score.exe
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\bin\Debug\net8.0\02.Bonus Score.deps.json
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\bin\Debug\net8.0\02.Bonus Score.runtimeconfig.json
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\bin\Debug\net8.0\02.Bonus Score.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\bin\Debug\net8.0\02.Bonus Score.pdb
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\02.Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\02.Bonus Score.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\02.Bonus Score.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\02.Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\02.Bonus Score.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\refint\02.Bonus Score.dll
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\02.Bonus Score.pdb
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\02.Bonus Score.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Conditional Statements - Exercise\02.Bonus Score\obj\Debug\net8.0\ref\02.Bonus Score.dll
